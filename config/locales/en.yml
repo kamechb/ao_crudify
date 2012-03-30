@@ -1,5 +1,5 @@
 en:
-  crudify:
+  ao_crudify:
     created: "%{what} was successfully created."
     updated: "%{what} was successfully updated."
     destroyed: "%{what} was successfully removed."

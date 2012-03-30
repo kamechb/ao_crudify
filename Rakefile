@@ -1,12 +1,11 @@
-require 'bundler'
 require 'rake/testtask'
-Bundler::GemHelper.install_tasks
+require 'spec/rake/spectask'
 
-Rake::TestTask.new do |t|
-  t.libs << "lib" << "test"
-  t.pattern = 'test/**/*_test.rb'
-  t.verbose = true
+desc 'Default: run unit tests.'
+task :default => :test
+
+desc 'Test the ao_locked gem.'
+Spec::Rake::SpecTask.new(:test) do |t|
+	t.spec_files = FileList['spec/**/*_spec.rb']
+	t.spec_opts = ['-c','-f','nested']
 end
-
-desc "Default Task"
-task :default => [ :test ]
