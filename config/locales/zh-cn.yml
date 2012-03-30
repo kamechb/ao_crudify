@@ -1,0 +1,8 @@
+zh-cn:
+  ao_crudify:
+    created: "%{what} 创建成功."
+    updated: "%{what} 更新成功."
+    destroyed: "%{what} 删除成功."
+    failed_create: "%{what} 创建失败."
+    failed_update: "%{what} 更新失败."
+    failed_destroy: "%{what} 删除失败."

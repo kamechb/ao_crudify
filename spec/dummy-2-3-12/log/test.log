@@ -1,0 +1,2360 @@
+# Logfile created on Thu Mar 29 16:25:58 +0800 2012
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:29:41) [GET]
+Rendering jellies/new
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:34:05) [GET]
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:35:38) [GET]
+Rendering jellies/new
+Completed in 5ms (View: 2 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:37:17) [GET]
+Rendering jellies/new
+Completed in 10ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:37:17) [GET]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:38:13) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:38:13) [GET]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:38:13) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:40:30) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:40:30) [GET]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:40:30) [GET]
+Rendering jellies/show
+Completed in 4ms (View: 3 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:42:00) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:42:00) [GET]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:42:00) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:43:26) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:43:26) [GET]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:43:26) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:45:33) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:45:33) [GET]
+  Parameters: {"page"=>"1", "per_page"=>"3"}
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:45:33) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:47:30) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:47:30) [GET]
+  Parameters: {"page"=>"1", "per_page"=>"3"}
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:47:30) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:48:43) [GET]
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:48:43) [GET]
+  Parameters: {"page"=>"1", "per_page"=>"3"}
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:48:43) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:51:28) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:51:28) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:51:28) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:53:02) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:53:02) [GET]
+Rendering jellies/index
+Completed in 18ms (View: 2 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:53:02) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:55:06) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:55:06) [GET]
+Rendering jellies/index
+Completed in 11ms (View: 7 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:55:06) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 17:55:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 82ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:55:39) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:55:39) [GET]
+Rendering jellies/index
+Completed in 7ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:55:39) [GET]
+Rendering jellies/show
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 17:55:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 9ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:57:16) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:57:16) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:57:16) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 17:57:16) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 9ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 17:58:19) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 17:58:19) [GET]
+Rendering jellies/index
+Completed in 12ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 17:58:19) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 17:58:19) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 17:58:19) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 21ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:01:18) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:01:18) [GET]
+Rendering jellies/index
+Completed in 6ms (View: 2 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:01:18) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:01:18) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:01:18) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Rendering jellies/new
+Completed in 9ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:01:18) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 7ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:03:23) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:03:23) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:03:23) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 2 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:03:23) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:03:23) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Rendering jellies/new
+Completed in 8ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:03:23) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 6ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:05:25) [GET]
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:05:25) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:05:25) [GET]
+Rendering jellies/show
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:05:25) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:05:25) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 3ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:05:25) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:10:15) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:10:15) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:10:15) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:10:15) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:10:15) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:10:15) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:11:24) [GET]
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:11:24) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:11:24) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:24) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:24) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 4ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:24) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:24) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.hostjellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:11:56) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:11:56) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:11:56) [GET]
+Rendering jellies/show
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:56) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:56) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 4ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:56) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:11:56) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:14:35) [GET]
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:14:35) [GET]
+Rendering jellies/index
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:14:35) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:14:35) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:14:35) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 3ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:14:35) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:14:35) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-29 18:17:31) [GET]
+Rendering jellies/new
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-29 18:17:31) [GET]
+Rendering jellies/index
+Completed in 11ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-29 18:17:31) [GET]
+Rendering jellies/show
+Completed in 4ms (View: 3 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:17:31) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:17:31) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:17:31) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:17:31) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-29 18:17:31) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 5ms (View: 3 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 09:32:28) [GET]
+Rendering jellies/new
+Completed in 9ms (View: 2 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 09:32:28) [GET]
+Rendering jellies/index
+Completed in 83ms (View: 2 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 09:32:28) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 2 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:32:28) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 71ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:32:28) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:32:28) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:32:28) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 09:35:49) [GET]
+Rendering jellies/new
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 09:35:49) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 09:35:49) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:35:49) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:35:49) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 4ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:35:49) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:35:49) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:35:49) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:39:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 9ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:39:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:41:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 7ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:41:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:41:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:41:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:42:45) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:42:45) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 35ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:42:45) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:42:45) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:42:45) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 406 Not Acceptable [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:01) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:01) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:01) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:01) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:43:01) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 1ms (View: 0 | 406 Not Acceptable [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:26) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 7ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:26) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:26) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:43:26) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:43:26) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:46:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 15ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:46:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:46:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:46:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:46:29) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 09:52:27) [GET]
+Rendering jellies/new
+Completed in 6ms (View: 2 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 09:52:27) [GET]
+Rendering jellies/index
+Completed in 6ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 09:52:27) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 5ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:52:27) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 09:52:28) [PUT]
+  Parameters: {"id"=>"1010", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 09:53:05) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 8ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:05) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 09:53:05) [GET]
+Rendering jellies/show
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 09:53:05) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 09:53:05) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 09:53:46) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 6ms (View: 1 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 9ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 09:53:46) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 09:53:46) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 09:53:46) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 09:53:46) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 56ms (View: 5 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1003", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1004", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:02:37) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:02:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:02:37) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:02:37) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:02:37) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 11ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:03:57) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:03:57) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:03:57) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:03:57) [GET]
+Rendering jellies/index
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:03:57) [GET]
+Rendering jellies/new
+Completed in 113ms (View: 16 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 11ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:08:59) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:08:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:08:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:08:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:08:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:08:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:00) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:09:00) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:00) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:09:00) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:09:00) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:09:00) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 2 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 16ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 9ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:09:44) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:09:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:09:44) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:09:44) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:09:44) [GET]
+Rendering jellies/new
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:38) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 12ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:10:39) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:10:39) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:10:39) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:10:39) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:10:39) [GET]
+Rendering jellies/new
+Completed in 5ms (View: 4 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:11:38) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:11:38) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:11:38) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:11:38) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:11:38) [GET]
+Rendering jellies/new
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:12:59) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:12:59) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:13:00) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:13:00) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:13:00) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:13:06) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:13:06) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:13:06) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:13:06) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:13:06) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 16ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:14:20) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:14:20) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 15ms (View: 15 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:14:20) [GET]
+Rendering jellies/show
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:14:20) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:14:20) [GET]
+Rendering jellies/new
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 13ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:15:07) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:15:07) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 123ms (View: 122 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:15:07) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:15:07) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:15:07) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1001", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 17ms (View: 2 | 200 OK [http://test.host/jellies/update/1001?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1004", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1005", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:19:03) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:19:04) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:19:04) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:19:04) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:19:04) [GET]
+Rendering jellies/index
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:19:04) [GET]
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#destroy (for 0.0.0.0 at 2012-03-30 10:20:40) [DELETE]
+  Parameters: {"id"=>"1001"}
+
+
+Processing JelliesController#destroy (for 0.0.0.0 at 2012-03-30 10:22:30) [DELETE]
+  Parameters: {"id"=>"1001"}
+Rendering jellies/destroy
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies/destroy/1001]
+
+
+Processing JelliesController#destroy (for 0.0.0.0 at 2012-03-30 10:22:43) [DELETE]
+  Parameters: {"id"=>"1001"}
+Rendering jellies/destroy
+Completed in 5ms (View: 1 | 200 OK [http://test.host/jellies/destroy/1001]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:43) [PUT]
+  Parameters: {"id"=>"1002", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 7ms (View: 2 | 200 OK [http://test.host/jellies/update/1002?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:43) [PUT]
+  Parameters: {"id"=>"1003", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1003?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:43) [PUT]
+  Parameters: {"id"=>"1004", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1004?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:43) [PUT]
+  Parameters: {"id"=>"1005", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1005?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:43) [PUT]
+  Parameters: {"id"=>"1006", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1006?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:43) [PUT]
+  Parameters: {"id"=>"1007", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1007?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:44) [PUT]
+  Parameters: {"id"=>"1008", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1008?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:22:44) [PUT]
+  Parameters: {"id"=>"1009", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1009?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:22:44) [PUT]
+  Parameters: {"id"=>"1010", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1010?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:22:44) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:22:44) [GET]
+Rendering jellies/show
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:22:44) [GET]
+Rendering jellies/index
+Completed in 4ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:22:44) [GET]
+Rendering jellies/new
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#new (for 0.0.0.0 at 2012-03-30 10:28:37) [GET]
+Rendering jellies/new
+Completed in 6ms (View: 1 | 200 OK [http://test.host/jellies/new]
+
+
+Processing JelliesController#index (for 0.0.0.0 at 2012-03-30 10:28:37) [GET]
+Rendering jellies/index
+Completed in 49ms (View: 1 | 200 OK [http://test.host/jellies]
+
+
+Processing JelliesController#show (for 0.0.0.0 at 2012-03-30 10:28:37) [GET]
+Rendering jellies/show
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/show]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar", "redirect"=>"/jellies"}
+Redirected to http://test.host/jellies
+Completed in 309ms | 302 Found [http://test.host/jellies/create?name=foo&redirect=%2Fjellies&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies/tmp
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Redirected to http://test.host/jellies_url
+Completed in 2ms | 302 Found [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/create
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create to json (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/create?format=json&name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Rendering jellies/new
+Completed in 3ms (View: 2 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#create (for 0.0.0.0 at 2012-03-30 10:28:37) [POST]
+  Parameters: {"name"=>"foo", "title"=>"bar"}
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/create?name=foo&title=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1010", "jelly"=>{"name"=>"update name", "title"=>"update title"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1010?jelly%5Bname%5D=update+name&jelly%5Btitle%5D=update+title]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1011", "redirect"=>"/jellies", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies
+Completed in 2ms | 302 Found [http://test.host/jellies/update/1011?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar&redirect=%2Fjellies]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1012", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies/tmp
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1012?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1013", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Redirected to http://test.host/jellies_url
+Completed in 1ms | 302 Found [http://test.host/jellies/update/1013?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1014", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/update
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1014?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update to json (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1015", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1015?format=json&jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1016", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Rendering jellies/edit
+Completed in 3ms (View: 1 | 200 OK [http://test.host/jellies/update/1016?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1017", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 0 | 200 OK [http://test.host/jellies/update/1017?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#update (for 0.0.0.0 at 2012-03-30 10:28:37) [PUT]
+  Parameters: {"id"=>"1018", "jelly"=>{"name"=>"foo", "title"=>"bar"}}
+Completed in 2ms (View: 1 | 200 OK [http://test.host/jellies/update/1018?jelly%5Bname%5D=foo&jelly%5Btitle%5D=bar]
+
+
+Processing JelliesController#destroy (for 0.0.0.0 at 2012-03-30 10:28:37) [DELETE]
+  Parameters: {"id"=>"1019"}
+Rendering jellies/destroy
+Completed in 1ms (View: 1 | 200 OK [http://test.host/jellies/destroy/1019]
